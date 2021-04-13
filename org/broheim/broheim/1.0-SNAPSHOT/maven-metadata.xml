@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.broheim</groupId>
+  <artifactId>broheim</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210413.143249</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210413143249</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20210413.143249-1</value>
+        <updated>20210413143249</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
